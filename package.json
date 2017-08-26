@@ -1,0 +1,8 @@
+{
+  "name": "hits-http-redirect",
+  "version": "1.0.0",
+  "description": "HTTP redirect heroku requests to alternative app server",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
